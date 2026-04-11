@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Football
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Footballl\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=team
+comment1.target=Football(java.lang.String)
+comment2.params=
+comment2.target=void\ winTrophy()
+comment3.params=
+comment3.target=java.lang.String\ getTeam()
+comment4.params=team
+comment4.target=void\ setTeam(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
