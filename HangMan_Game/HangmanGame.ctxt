@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HangmanGame
+comment1.params=filename
+comment1.target=void\ loadWordsFromFile(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getRandomWord()
+comment3.params=word
+comment3.target=MyArrayList\ loadWord(java.lang.String)
+comment4.params=
+comment4.target=void\ play()
+comment5.params=wordList
+comment5.target=boolean\ isWordGuessed(MyArrayList)
+comment6.params=wordList
+comment6.target=java.lang.String\ displayWord(MyArrayList)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

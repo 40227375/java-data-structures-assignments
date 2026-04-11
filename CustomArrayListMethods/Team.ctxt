@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Team
+comment1.params=name\ points\ goalsScored
+comment1.target=Team(java.lang.String,\ int,\ int)
+comment10.params=other
+comment10.target=int\ compareTo(Team)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=int\ getPoints()
+comment5.params=points
+comment5.target=void\ setPoints(int)
+comment6.params=
+comment6.target=int\ getGoalsScored()
+comment7.params=goalsScored
+comment7.target=void\ setGoalsScored(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=o
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=11
